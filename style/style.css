@@ -330,6 +330,7 @@ main {
 .meetup-photo {
     width: 95%;
     height: 120px;
+    max-width: 400px;
     object-fit: cover;
     border-radius: 8px;
     background: light-dark(var(--light-card), var(--dark-card));
